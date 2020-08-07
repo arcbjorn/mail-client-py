@@ -1,0 +1,6 @@
+Hello World
+
+Mail is sent with Python.
+
+Regards,
+Grokker
